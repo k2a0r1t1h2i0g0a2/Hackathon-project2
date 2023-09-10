@@ -1,0 +1,48 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.card-img-top{
+    height: auto;
+    
+}
+
+.watch.btn.btn-primary{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 10px 10px;
+}
+#foodName{
+    width: 420px;
+    background-color:#F2F2F2;
+    height: 30px;
+    
+}
+#submit{
+    background-color: orangered;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 3px 20px;
+    margin-left: 10px;
+}
+.row{
+    
+    margin-left: 30px;
+}
+h1{
+    text-align: center;
+}
+
+.header{
+display: flex;
+justify-content: space-around;
+margin-top:50px ;
+}
+#body{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
